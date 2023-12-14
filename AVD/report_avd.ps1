@@ -14,7 +14,7 @@ Date_modified:
 
 # Variaveis
 $logTime = ""
-$ExportFilePath = "C:\Users\caras\Documents\Cloud\Azure\AVD\"
+$ExportFilePath = "caminho salvar arquivo"
 $avd_hostpool = $ExportFilePath + "report_avd_hostpool.csv"
 $avd_vms = $ExportFilePath + "report_avd_vm.csv"
 
