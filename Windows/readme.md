@@ -1,10 +1,12 @@
 # Bem vindo scripts remover apps Windows 11
 
-# APPLICATION	REMOVAL COMMAND
-link: https://allthings.how/how-to-remove-windows-11-system-apps-using-powershell/
+
+link Documentação: https://allthings.how/how-to-remove-windows-11-system-apps-using-powershell/
 
 [Remover apps](./remover_apps.ps1)
 
+# APPLICATION	REMOVAL COMMAND
+```powershell
 3D Builder	Get-AppxPackage *3dbuilder* | Remove-AppxPackage
 Sway	Get-AppxPackage *sway* | remove-AppxPackage
 Alarms & Clock	Get-AppxPackage *alarms* | Remove-AppxPackage
@@ -56,3 +58,4 @@ Mixed Reality Portal	Get-AppxPackage *MixedReality* | Remove-AppxPackage
 Screen Sketch	Get-AppxPackage *ScreenSketch* | Remove-AppxPackage
 Clip Champ	Get-AppxPackage *Clipchamp* | Remove-AppxPackage
 Capture Picker	Get-AppxPackage *CapturePicker* | Remove-AppxPackage
+```
