@@ -3,7 +3,7 @@
 # APPLICATION	REMOVAL COMMAND
 link: https://allthings.how/how-to-remove-windows-11-system-apps-using-powershell/
 
-[remover_apps] (./remover_apps)
+[Remover apps](.Windows/remover_apps.ps1)
 
 3D Builder	Get-AppxPackage *3dbuilder* | Remove-AppxPackage
 Sway	Get-AppxPackage *sway* | remove-AppxPackage
