@@ -11,3 +11,7 @@ Date: 14/12/2023
 # Tutorial: Scripts powershell para gerenciar Sistemas Operacionais Windows.
 >[!IMPORTANT]
 >Scripts em desenvolvimento para Sistemas Operacionais Windows, [Windows](./Windows/readme.md).
+
+# Tutorial: Configurações e comandos Powershell.
+>[!IMPORTANT]
+>Scripts em desenvolvimento para Sistemas Operacionais Windows, [config_powershell](./config_powershell.md).
