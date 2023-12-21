@@ -47,3 +47,4 @@ Install-Module PowerShellGet -Force -AllowClobber
 #Updates Modulos PowerShellGet
 Update-Help -Module PowerShellGet -Force
 ```
+[link oficial:](https://learn.microsoft.com/en-us/powershell/gallery/powershellget/install-powershellget?view=powershellget-3.x)

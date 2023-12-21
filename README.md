@@ -14,4 +14,8 @@ Date: 14/12/2023
 
 # Tutorial: Configurações e comandos Powershell.
 >[!IMPORTANT]
->Scripts em desenvolvimento para Sistemas Operacionais Windows, [config_powershell](./config_powershell.md).
+>Scripts em desenvolvimento Powershell, [config_powershell](./Scripts_powershell/README.MD).
+
+# Tutorial: Configurações e comandos Powershell.
+>[!IMPORTANT]
+>Scripts em desenvolvimento para config Powershell, [config_powershell](./config_powershell.md).
